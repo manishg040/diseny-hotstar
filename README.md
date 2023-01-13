@@ -1,1 +1,1 @@
-# diseny-hotstar
+# disney-hotstar
